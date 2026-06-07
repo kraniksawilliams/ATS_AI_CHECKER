@@ -1,9 +1,11 @@
 fastapi
 uvicorn
+gunicorn
 python-multipart
 pdfminer.six
 scikit-learn
 sentence-transformers
+torch
 yake
 python-jose
 passlib[bcrypt]
